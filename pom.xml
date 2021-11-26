@@ -62,5 +62,5 @@
         </plugin>
     </plugins>
 </build>
-	
+<Listener className="org.apache.catalina.core.JreMemoryLeakPreventionListener" driverManagerProtection="false" />
 </project>
