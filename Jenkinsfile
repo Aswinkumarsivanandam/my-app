@@ -1,6 +1,6 @@
 node{
    stage('SCM Checkout'){
-     git 'https://github.com/aswinkumarsivanadnam/my-app.git'
+     git 'https://github.com/Aswinkumarsivanandam/my-app.git'
    }
    stage('Compile-Package'){
 
